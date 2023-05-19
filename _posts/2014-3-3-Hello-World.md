@@ -3,13 +3,13 @@ layout: post
 title: 'Bonjour, Monde!'
 published: true
 ---
-This took an embarrassingly long time to setup, given that I stole all this code from a (rather strange) bloke from the internet, which I confess is my trick for most things coding. The stranger the bloke the better the code usually, although fuck this bloke gave me the heebie-jeebies.
+This took an embarrassingly long time to setup, given that I stole all this code from a (rather strange) bloke from the internet, which I confess is my trick for most things coding. The stranger the bloke the better the code usually, although fuck this cunt gave me the heebie-jeebies.
 
-## WHY EXIST? HUH?
+
+### WHY EXIST? HUH?
+
 
 Dunno really, I thought it would be good to have an outlet at night just for myself, it seems that otherwise the pit of darkness that's in my mind finds itself much too easily at the center of focus. Writing about mundane bullshit gives two solutions: I get to actively supress that bad voices while writing, and the bad voices are at bay while I think about what to write. An absolute win-win, reste à voir si je vais pouvoir tenir le coup. Je l'espère.
-
-Welcome all!
 
 I ensure you that the posts to come will be embarrassing, most and foremost to myself both now and in the future, but I suspect future me will want to bring a cricket bat on my teeth even more than current me for the things that will be written here. Everything has a beginning, and frankly speaking that beginning is almost always a clumsy mess of naiveté and critical self-awareness for the slightest steps taken in any direction. Were adults toddlers, I guarantee you that the majority of us would not end up knowing how to walk. Toddlers have the advantage of not realising how pathetic their lack of walking skills are to us abled humans, and society has made it unnacceptable to laugh at such a dismal display of coordination for the good of those toddlers. I ask future readers to afford me the same privileges until the training wheels come off.
 
